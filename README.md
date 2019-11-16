@@ -1,9 +1,4 @@
-# google-book-search
 # Google Books Search
-
-<h4 align ="center">Full stack application<h4>
-
-![app](client/public/images/screenshot.gif)
 
 ## Description
 
