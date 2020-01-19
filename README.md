@@ -11,4 +11,9 @@ React-based Google Books Search app. This SPA (Single Page Application) uses [re
 
 MVC design pattern: Model, View, Controller.
 
+    # React
+    # Node
+    # Express
+    # MongoDB
+
 - Search for books using the [Google Books API](https://developers.google.com/books/)
