@@ -17,3 +17,7 @@ MVC design pattern: Model, View, Controller.
     - MongoDB
 
 Search for books using the [Google Books API](https://developers.google.com/books/)
+
+## Screenshots
+
+![Google-Book-Search](https://github.com/edivya/google-book-search/blob/master/client/public/images/Google-book-search.png)
